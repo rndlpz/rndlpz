@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I am Randy Lopez. 👋
+
+- 🔭 I’m currently working on becoming a software engineer and professor later on.
+- 🌱 I’m currently learning computer science at UCSC.
+- 👯 I’m looking to collaborate on making new websites.
+- 🤔 I’m looking for help with sleep and upper division CSE classes.
+- 💬 Ask me about how I am doing and how you are doing in school.
+- 📫 How to reach me: LinkedIn
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I like playing and watching people play drums, but coding pays better.
 
 <!--
 **rndlpz/rndlpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
