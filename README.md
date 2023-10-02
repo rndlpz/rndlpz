@@ -7,7 +7,7 @@
 - 💬 Ask me about how I am doing and how you are doing in school.
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I like playing and watching people play drums, but coding pays better.
+- ⚡ Fun fact: I love acting and watching movies.
 
 <!--
 **rndlpz/rndlpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
